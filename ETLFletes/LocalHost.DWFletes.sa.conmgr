@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.DWFletes.sa"
+  DTS:DTSID="{CD7FC483-1B01-4E2B-8BFC-2A15B0A8DDB5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;User ID=sa;Initial Catalog=DWFletes;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbQwG2DOpzUeyDk7dE0D5HAAAAAACAAAAAAAQZgAAAAEAACAAAADnfX7avGfmsTNQKHwFOqLoum6QuNocnAnWLxKBDW4jwQAAAAAOgAAAAAIAACAAAABG32L/3nTqWCUGM2YhHHunKvocOS1Ee68f8PW8im6avXAAAABSseh1YkFOjazz5vx11HMfsynpCMB9lZLlLR7k0SExrjP/4Jm7shxoPJh9cRLQPh+BX5RbVagVsrztsinpwubLpuh6j7zif2A9kt0lf3ApbZaTBGrfU3GHqBKfGGtQmaUVOlFS4b0t1JJrEerzmP7GQAAAAGsW6IXoKYlCwstLaj4EX6K9Wuiuynf7/2c/cwTcLiSSD0PjdSmRfrD04dqN0DYLT+ycGCnWPtWlWhzp1SRRmX4=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
